@@ -2,3 +2,7 @@ Hallo Welt
 Hallo Git
 
 Nur diese Datei wird nun eingefügt
+
+hallo hallo
+
+Änderung in der 3. textdatei
